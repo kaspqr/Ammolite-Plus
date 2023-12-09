@@ -1,0 +1,389 @@
+[
+    {
+      "id": 1,
+      "active": true,
+      "buildings": [
+        {
+          "id": 1699972582819836400,
+          "active": true,
+          "floors": [
+            {
+              "id": 1699972673697864200,
+              "building": 1699972582819836400,
+              "use": [
+                "Office"
+              ],
+              "number": 1,
+              "security": true,
+              "active": true,
+              "workingAreas": [],
+              "rooms": [],
+              "surface": 300,
+              "gates": 2,
+              "meetingRooms": 1,
+              "toilets": 3,
+              "streetAndNumber": "Lõõtsa 2A",
+              "locationTitle": "Kühne+Nagel Tallinn IT"
+            },
+            {
+              "id": 1699972744200562700,
+              "building": 1699972582819836400,
+              "use": [
+                "Office"
+              ],
+              "number": 7,
+              "security": false,
+              "active": true,
+              "workingAreas": [
+                {
+                  "id": 1699972811752622300,
+                  "floor": 1699972744200562700,
+                  "use": [
+                    "Office"
+                  ],
+                  "name": "Software Development 1",
+                  "code": "123",
+                  "surface": 50,
+                  "active": true,
+                  "locationTitle": "Kühne+Nagel Tallinn IT"
+                },
+                {
+                  "id": 1699972837574602200,
+                  "floor": 1699972744200562700,
+                  "use": [
+                    "Office"
+                  ],
+                  "name": "Software Development 2",
+                  "code": "456",
+                  "surface": 39,
+                  "active": true,
+                  "locationTitle": "Kühne+Nagel Tallinn IT"
+                }
+              ],
+              "rooms": [
+                {
+                  "id": 169997286187210700,
+                  "floor": 1699972744200562700,
+                  "use": [
+                    "Office"
+                  ],
+                  "name": "Meeting Room 1",
+                  "code": "111",
+                  "surface": 45,
+                  "active": true,
+                  "locationTitle": "Kühne+Nagel Tallinn IT"
+                },
+                {
+                  "id": 1699972881727584500,
+                  "floor": 1699972744200562700,
+                  "use": [
+                    "Office"
+                  ],
+                  "name": "Meeting Room 2",
+                  "code": "222",
+                  "surface": 52,
+                  "active": true,
+                  "locationTitle": "Kühne+Nagel Tallinn IT"
+                }
+              ],
+              "surface": 290,
+              "gates": 2,
+              "meetingRooms": 4,
+              "toilets": 5,
+              "streetAndNumber": "Lõõtsa 2A",
+              "locationTitle": "Kühne+Nagel Tallinn IT"
+            }
+          ],
+          "streetAndNumber": "Lõõtsa 2A",
+          "zip": "11415",
+          "location": 1,
+          "reception": {
+            "phone": "123",
+            "fax": "456"
+          },
+          "contactPerson": {
+            "firstName": "Stefano",
+            "lastName": "Fiorenza",
+            "email": "stefano@email.ee",
+            "phone": "(+372) 5678901234"
+          },
+          "securityContactPerson": {
+            "firstName": "Kaspar",
+            "lastName": "Vellamäe",
+            "email": "kaspar@email.ee",
+            "phone": "(+372) 567887651"
+          }
+        },
+        {
+          "id": 1699972956616272400,
+          "active": true,
+          "floors": [
+            {
+              "id": 1699973077038852000,
+              "building": 1699972956616272400,
+              "use": [
+                "Office"
+              ],
+              "number": 6,
+              "security": false,
+              "active": true,
+              "workingAreas": [],
+              "rooms": [],
+              "surface": 299,
+              "gates": 3,
+              "meetingRooms": 5,
+              "toilets": 6,
+              "streetAndNumber": "Lõõtsa 2B",
+              "locationTitle": "Kühne+Nagel Tallinn IT"
+            },
+            {
+              "id": 16999730482941506,
+              "building": 1699972956616272400,
+              "use": [
+                "Office"
+              ],
+              "number": 1,
+              "security": true,
+              "active": true,
+              "workingAreas": [],
+              "rooms": [
+                {
+                  "id": 1699973111238148000,
+                  "floor": 16999730482941506,
+                  "use": [
+                    "Office"
+                  ],
+                  "name": "Meeting Room 1",
+                  "code": "777",
+                  "surface": 60,
+                  "active": true,
+                  "locationTitle": "Kühne+Nagel Tallinn IT"
+                }
+              ],
+              "surface": 305,
+              "gates": 2,
+              "meetingRooms": 2,
+              "toilets": 5,
+              "streetAndNumber": "Lõõtsa 2B",
+              "locationTitle": "Kühne+Nagel Tallinn IT"
+            }
+          ],
+          "streetAndNumber": "Lõõtsa 2B",
+          "zip": "11415",
+          "location": 1,
+          "contactPerson": {
+            "firstName": "Someone",
+            "lastName": "Else",
+            "email": "their@email.com",
+            "phone": "55555555"
+          }
+        }
+      ],
+      "title": "Kühne+Nagel Tallinn IT",
+      "address": {
+        "id": 1,
+        "country": {
+          "id": 69,
+          "iso2": "EE",
+          "iso3": "EST",
+          "name": "Estonia",
+          "number": "233"
+        },
+        "city": "Tallinn",
+        "streetAndNumber": "Lõõtsa 2",
+        "zip": "11415"
+      },
+      "owner": "Our Premises",
+      "includeMapCoordinates": true,
+      "latitude": "59.423000",
+      "longitude": "24.801673",
+      "use": [
+        "Office"
+      ]
+    },
+    {
+      "id": 2,
+      "active": true,
+      "buildings": [
+        {
+          "id": 1699973254934269700,
+          "active": true,
+          "floors": [
+            {
+              "id": 169997330007024480,
+              "building": 1699973254934269700,
+              "use": [
+                "Manufacturing Plant"
+              ],
+              "number": 1,
+              "security": true,
+              "active": true,
+              "workingAreas": [
+                {
+                  "id": 1699973332710361900,
+                  "floor": 169997330007024480,
+                  "use": [
+                    "Manufacturing Plant"
+                  ],
+                  "name": "Important Part Manufacturing",
+                  "code": "987",
+                  "surface": 1700,
+                  "active": true,
+                  "locationTitle": "Second Partner",
+                  "productionLine": {
+                    "id": 1699973375303814400,
+                    "name": "Important Part Production Line",
+                    "code": "1699973375303814400",
+                    "type": "Machining Line",
+                    "deliverable": "Product",
+                    "capacity": 5000,
+                    "workingArea": 0,
+                    "active": true,
+                    "created": 1698365971653,
+                    "workstations": []
+                  }
+                }
+              ],
+              "rooms": [],
+              "surface": 2000,
+              "gates": 3,
+              "meetingRooms": 2,
+              "toilets": 16,
+              "streetAndNumber": "Some Street 321",
+              "locationTitle": "Second Partner"
+            }
+          ],
+          "streetAndNumber": "Some Street 321",
+          "zip": "64321",
+          "location": 2,
+          "contactPerson": {
+            "firstName": "",
+            "lastName": "",
+            "email": "random@email.ee",
+            "phone": "8888888888"
+          }
+        }
+      ],
+      "title": "Second Partner",
+      "address": {
+        "id": 2,
+        "country": {
+          "id": 75,
+          "iso2": "FI",
+          "iso3": "FIN",
+          "name": "Finland",
+          "number": "246"
+        },
+        "city": "Helsinki",
+        "streetAndNumber": "Some Street 321",
+        "zip": "64321"
+      },
+      "owner": "Registered Partner Company",
+      "includeMapCoordinates": false,
+      "latitude": "",
+      "longitude": "",
+      "use": [
+        "Warehouse",
+        "Manufacturing Plant"
+      ]
+    },
+    {
+      "id": 3,
+      "active": true,
+      "buildings": [
+        {
+          "id": 1699973171198722300,
+          "active": true,
+          "floors": [
+            {
+              "id": 1699973201983516400,
+              "building": 1699973171198722300,
+              "use": [
+                "Warehouse"
+              ],
+              "number": 1,
+              "security": true,
+              "active": true,
+              "workingAreas": [
+                {
+                  "id": 1699973230783961300,
+                  "floor": 1699973201983516400,
+                  "use": [
+                    "Warehouse"
+                  ],
+                  "name": "Main Warehouse",
+                  "code": "789",
+                  "surface": 800,
+                  "active": true,
+                  "locationTitle": "First Partner"
+                }
+              ],
+              "rooms": [],
+              "surface": 1000,
+              "gates": 3,
+              "meetingRooms": 2,
+              "toilets": 10,
+              "streetAndNumber": "Street 123",
+              "locationTitle": "First Partner"
+            }
+          ],
+          "streetAndNumber": "Street 123",
+          "zip": "333333",
+          "location": 3,
+          "contactPerson": {
+            "firstName": "",
+            "lastName": "",
+            "email": "email@email.ee",
+            "phone": "777777777"
+          }
+        }
+      ],
+      "title": "First Partner",
+      "address": {
+        "id": 3,
+        "country": {
+          "id": 83,
+          "iso2": "DE",
+          "iso3": "DEU",
+          "name": "Germany",
+          "number": "276"
+        },
+        "city": "Munich",
+        "streetAndNumber": "Street 123",
+        "zip": "333333"
+      },
+      "owner": "Registered Partner Company",
+      "includeMapCoordinates": true,
+      "latitude": "45.6789",
+      "longitude": "12.34567",
+      "use": [
+        "Warehouse"
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "title": "Kühne+Nagel Tallinn HQ",
+      "address": {
+        "id": 0,
+        "country": {
+          "id": 69,
+          "iso2": "EE",
+          "iso3": "EST",
+          "name": "Estonia",
+          "number": "233"
+        },
+        "city": "Tallinn",
+        "streetAndNumber": "Jalgpalli 1",
+        "zip": "11312"
+      },
+      "owner": "Our Premises",
+      "includeMapCoordinates": true,
+      "latitude": "59.419206",
+      "longitude": "24.740432",
+      "use": [
+        "Office"
+      ],
+      "buildings": []
+    }
+]

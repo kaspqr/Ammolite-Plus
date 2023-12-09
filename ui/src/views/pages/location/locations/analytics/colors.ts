@@ -1,0 +1,26 @@
+export const COLORS = {
+  primary: [
+    "#FF6384",
+    "#36A2EB",
+    "#FFCE56",
+    "#4BC0C0",
+    "#9966FF",
+    "#FF9F40",
+    "#FFD700",
+    "#32CD32",
+    "#FF6347",
+    "#8A2BE2",
+  ],
+  secondary: [
+    "#FFA07A",
+    "#7B68EE",
+    "#20B2AA",
+    "#FFD700",
+    "#00BFFF",
+    "#FF4500",
+    "#8B4513",
+    "#2E8B57",
+    "#DA70D6",
+    "#32CD32",
+  ],
+};
